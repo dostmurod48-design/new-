@@ -1,5 +1,4 @@
 *{
-
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -116,8 +115,8 @@ ul{
 }
 .btn_sc{
     text-align: center;
-    margin-top: 67px;
-    margin-bottom: 67px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .btn_sec1{
     background: white;
@@ -133,10 +132,10 @@ ul{
     text-align: center;
     color: white;
     font-weight: 400;
-    font-size: 29px;
+    font-size: 18px;
     p{
-         margin-top: 67px;
-    margin-bottom: 67px;
+         margin-top: 50px;
+    margin-bottom: 50px;
     }
 }
 .dih{
