@@ -231,8 +231,8 @@ body{
     height: 40px;
 }
 .goodbye{
-     background: #331812;
-     border-radius: 0px 10px 0px 0px;
+    background: #331812;
+    border-radius: 0px 10px 0px 0px;
     width: 208px;
     height: 40px;
 }
@@ -261,7 +261,7 @@ body{
 .topp{
     width: 526px;
     height: 253px;
-background: #D5621D;
+    background: #D5621D;
     border-radius: 5px;
 }
 .list_sc{
@@ -278,6 +278,9 @@ background: #D5621D;
 .bottomm{
     display: flex;
     flex-direction: column;
+    option{
+        border: none;
+    }
    select{
     border-radius: 5px;
     margin-top: 20px;
